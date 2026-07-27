@@ -49,8 +49,8 @@ The raw ACLED dataset contained **32,447 rows and 31 variables**, with some even
 ## How to Run
 
 ```bash
-git clone https://github.com/hasanakkaya0/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/hasanakkaya0/turkey-political-violence-analysis.git
+cd turkey-political-violence-analysis
 pip install pandas numpy scipy statsmodels matplotlib geopandas
 jupyter notebook Stat250_Project_Group_11.ipynb
 ```
